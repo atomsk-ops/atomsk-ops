@@ -20,14 +20,16 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=plastic&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
-- 🛢 &nbsp; <br />
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
+- 🛢 &nbsp;
+&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=plastic&logo=markdown)
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+
+<br />
 
   ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewurrea&theme=blue-green)
 
