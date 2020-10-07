@@ -36,6 +36,6 @@
 <br />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/murrea-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matthew%Urrea-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/murrea-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matthew%20Urrea-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:matt.urrea.code@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matt.urrea.code@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
