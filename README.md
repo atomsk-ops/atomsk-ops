@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, Mathematics and Network Engieering.
-- 💼 &nbsp; Working as a Service Desk Analyst at UnityBPO.
+- 💼 &nbsp; Working as a Software Quality Assurance Analyst at Indica Labs.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Artificial Intelligence and Testing Automation.
 
 ### 🛠 &nbsp;Tech Stack
