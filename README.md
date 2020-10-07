@@ -30,6 +30,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
 
 <br />
+<p align='center'>
 
-  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewurrea&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewurrea&theme=blue-green)
 
+</p>
