@@ -30,6 +30,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
 
 <br />
-<p align='center'>
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewurrea&theme=blue-green)
+
+  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewurrea&theme=blue-green)
+
+<br />
+
+<p align="center">
+<a href="https://www.linkedin.com/in/murrea-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:matt.urrea.code@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matt.urrea.code@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
